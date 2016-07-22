@@ -1,0 +1,1 @@
+java -jar HrProc.jar mail-No attachment-yes
